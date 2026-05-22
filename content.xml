@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260522101535H7BW7Q</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026052210153578HQSO</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Aprendiendo Seguridad Vial</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Un viaje Divertido y Seguro</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana María Pareja Pérez </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto se centra en la educación vial como herramienta fundamental para potenciar la seguridad personal y la autonomía de niños y niñas con necesidades educativas especiales. A lo largo de cuatro semanas, se llevarán a cabo sesiones de una hora dos veces a la semana, donde se abordarán conceptos básicos sobre circulación peatonal, señales de tráfico y seguridad en el automóvil.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779437723875</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpgn9yya-xpqi5qhyu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROYECTO FINAL</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROYECTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROYECTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yya-xpqi5qhyu</odePageId>
+      <odeBlockId>block-1778590665737-rtjgwakjk</odeBlockId>
+      <blockName>Aprendiendo Seguridad Vial: Un Viaje Divertido y Seguro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yya-xpqi5qhyu</odePageId>
+          <odeBlockId>block-1778590665737-rtjgwakjk</odeBlockId>
+          <odeIdeviceId>idevice-1778590665734-ir6lj3qbo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/PEATON 37.png" /></p>
+<p style="text-align: center;">DIRIGIDO A ALUMNADO CON NECESIDADES EDUCATIVAS ESPECIALES</p>
+<p style="text-align: center;">AUTORA: ANA MARÍA PAREJA PÉREZ</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/LICENCIA.jpg" width="183" height="64" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778590665734-ir6lj3qbo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/PEATON 37.png\" /></p>\n<p style=\"text-align: center;\">DIRIGIDO A ALUMNADO CON NECESIDADES EDUCATIVAS ESPECIALES</p>\n<p style=\"text-align: center;\">AUTORA: ANA MARÍA PAREJA PÉREZ</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/LICENCIA.jpg\" width=\"183\" height=\"64\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yyg-k6rfhaw1u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yyg-k6rfhaw1u</odePageId>
+      <odeBlockId>block-1778591257904-4p92tyxlf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yyg-k6rfhaw1u</odePageId>
+          <odeBlockId>block-1778591257904-4p92tyxlf</odeBlockId>
+          <odeIdeviceId>idevice-1778591257901-pdmicagq8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La educación vial es un aspecto esencial para el desarrollo de la seguridad personal y la autonomía en los niños y niñas. Este proyecto se propone abordar, de manera inclusiva y adaptada, conceptos básicos sobre circulación peatonal, señales de tráfico y comportamientos seguros en las calles, enfocado especialmente en niños y niñas con necesidades educativas especiales con un nivel de competencia curricular aproximado de 4 años. A través de un enfoque multidisciplinario que integra áreas como Educación Física, Educación Artística y Conocimiento del Medio, se busca fomentar no solo el aprendizaje teórico, sino también el desarrollo práctico de habilidades necesarias para interactuar de manera segura en su entorno cotidiano.</p>
+<p style="text-align: center;"><a href="{{context_path}}/content/resources/JUSTIFICACIÓN.pdf" title="JUSTIFICACIÓN.pdf">JUSTIFICACIÓN</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778591257901-pdmicagq8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La educación vial es un aspecto esencial para el desarrollo de la seguridad personal y la autonomía en los niños y niñas. Este proyecto se propone abordar, de manera inclusiva y adaptada, conceptos básicos sobre circulación peatonal, señales de tráfico y comportamientos seguros en las calles, enfocado especialmente en niños y niñas con necesidades educativas especiales con un nivel de competencia curricular aproximado de 4 años. A través de un enfoque multidisciplinario que integra áreas como Educación Física, Educación Artística y Conocimiento del Medio, se busca fomentar no solo el aprendizaje teórico, sino también el desarrollo práctico de habilidades necesarias para interactuar de manera segura en su entorno cotidiano.</p>\n<p style=\"text-align: center;\"><a href=\"{{context_path}}/content/resources/JUSTIFICACIÓN.pdf\" title=\"JUSTIFICACIÓN.pdf\">JUSTIFICACIÓN</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpgn9yyg-k6rfhaw1u</odePageId>
+      <odeBlockId>block-1778592775027-5nw5tlwpa</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yyg-k6rfhaw1u</odePageId>
+          <odeBlockId>block-1778592775027-5nw5tlwpa</odeBlockId>
+          <odeIdeviceId>idevice-1778592775025-lhxnf2egi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778592775025-lhxnf2egi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yyi-pbo18t0jm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIONES DE TRABAJO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIONES DE TRABAJO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIONES DE TRABAJO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yyi-pbo18t0jm</odePageId>
+      <odeBlockId>block-1778593065106-9zdfx32ow</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yyi-pbo18t0jm</odePageId>
+          <odeBlockId>block-1778593065106-9zdfx32ow</odeBlockId>
+          <odeIdeviceId>idevice-1778593065105-pjhi71zdv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><a href="{{context_path}}/content/resources/Mapa conceptual sesiones. .png" title="Mapa conceptual sesiones. .png">MAPA CONCEPTUAL SESIONES</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778593065105-pjhi71zdv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><a href=\"{{context_path}}/content/resources/Mapa conceptual sesiones. .png\" title=\"Mapa conceptual sesiones. .png\">MAPA CONCEPTUAL SESIONES</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yyk-ts7ngr3wd</odePageId>
+  <odeParentPageId>page-mpgn9yyi-pbo18t0jm</odeParentPageId>
+  <pageName>SESIÓN 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yyk-ts7ngr3wd</odePageId>
+      <odeBlockId>block-1778593209050-6feug8k9d</odeBlockId>
+      <blockName>Título: Conceptos básicos y sensibilización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yyk-ts7ngr3wd</odePageId>
+          <odeBlockId>block-1778593209050-6feug8k9d</odeBlockId>
+          <odeIdeviceId>idevice-1778593209048-0pa6h4c9d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Título: Conceptos básicos y sensibilización</strong></em></p>
+<p><em><strong>Tareas: </strong></em></p>
+<ul>
+<li>Ver vídeos cortos a través de la herramienta <a href="https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv">https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv</a> por medio de la tablet o el ordenador. </li>
+<li>Participar en diálogo sencillo y comprensible.</li>
+</ul>
+<p><em><strong>Agrupamiento: </strong></em>Individual o en parejas.</p>
+<p><em><strong>Recursos: </strong></em>Tablets u ordenadores, vídeos, pictogramas interactivos.</p>
+<p><em><strong>Evaluación: </strong></em>Reconocimiento y comprensión de las normas básicas. </p>
+<p><em><strong>Desarrollo: </strong></em>En clase después de anticipar que vamos a trabajar la seguridad vial, mostrar vídeos cortos seleccionados y pictogramas en la PDI, tablet u ordenador. Luego, realizaría un diálogo sencillo, usando preguntas fáciles y palabras claras, para que los niños puedan expresar oralmente o con signos lo que entendieron. La idea es que reconozcan las normas básicas de seguridad vial de forma visual y concreta, promoviendo su participación activa y comprensión.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778593209048-0pa6h4c9d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Título: Conceptos básicos y sensibilización</strong></em></p>\n<p><em><strong>Tareas: </strong></em></p>\n<ul>\n<li>Ver vídeos cortos a través de la herramienta <a href=\"https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv\">https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv</a> por medio de la tablet o el ordenador. </li>\n<li>Participar en diálogo sencillo y comprensible.</li>\n</ul>\n<p><em><strong>Agrupamiento: </strong></em>Individual o en parejas.</p>\n<p><em><strong>Recursos: </strong></em>Tablets u ordenadores, vídeos, pictogramas interactivos.</p>\n<p><em><strong>Evaluación: </strong></em>Reconocimiento y comprensión de las normas básicas. </p>\n<p><em><strong>Desarrollo: </strong></em>En clase después de anticipar que vamos a trabajar la seguridad vial, mostrar vídeos cortos seleccionados y pictogramas en la PDI, tablet u ordenador. Luego, realizaría un diálogo sencillo, usando preguntas fáciles y palabras claras, para que los niños puedan expresar oralmente o con signos lo que entendieron. La idea es que reconozcan las normas básicas de seguridad vial de forma visual y concreta, promoviendo su participación activa y comprensión.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yym-f0fnombg8</odePageId>
+  <odeParentPageId>page-mpgn9yyi-pbo18t0jm</odeParentPageId>
+  <pageName>SESIÓN 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yym-f0fnombg8</odePageId>
+      <odeBlockId>block-1778593480322-o78ajeafg</odeBlockId>
+      <blockName>Título: Juego de simulación en circuito</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yym-f0fnombg8</odePageId>
+          <odeBlockId>block-1778593480322-o78ajeafg</odeBlockId>
+          <odeIdeviceId>idevice-1778593480320-tahfb1nfh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Título: Juego de simulación en circuito</strong></em></p>
+<p><em><strong>Tarea:</strong></em></p>
+<ul>
+<li>Participar en grupos pequeños en un circuito físico o con aplicación interactiva <a href="https://www.cokitos.com/peatones-cruzando-el-trafico/play/">https://www.cokitos.com/peatones-cruzando-el-trafico/play/</a></li>
+<li>Reconocer señales y aplicar reglas de circulación. </li>
+</ul>
+<p><em><strong>Recursos: </strong></em>Circuito físico con señales en miniatura o aplicación digital.</p>
+<p><strong><em>Evaluación: </em></strong>Reconocimiento de señales y su uso, así como normas de circulación.</p>
+<p><em><strong>Desarrollo: </strong></em>Una vez organizado un circuito, ya sea físico con señales en miniatura o usando una aplicación digital, el alumnado participarían en el circuito, reconociendo las señales y aplicando las reglas de circulación de manera práctica y divertida. Durante la actividad, reforzaría el reconocimiento de señales y normas, observando su participación y comprensión.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778593480320-tahfb1nfh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Título: Juego de simulación en circuito</strong></em></p>\n<p><em><strong>Tarea:</strong></em></p>\n<ul>\n<li>Participar en grupos pequeños en un circuito físico o con aplicación interactiva <a href=\"https://www.cokitos.com/peatones-cruzando-el-trafico/play/\">https://www.cokitos.com/peatones-cruzando-el-trafico/play/</a></li>\n<li>Reconocer señales y aplicar reglas de circulación. </li>\n</ul>\n<p><em><strong>Recursos: </strong></em>Circuito físico con señales en miniatura o aplicación digital.</p>\n<p><strong><em>Evaluación: </em></strong>Reconocimiento de señales y su uso, así como normas de circulación.</p>\n<p><em><strong>Desarrollo: </strong></em>Una vez organizado un circuito, ya sea físico con señales en miniatura o usando una aplicación digital, el alumnado participarían en el circuito, reconociendo las señales y aplicando las reglas de circulación de manera práctica y divertida. Durante la actividad, reforzaría el reconocimiento de señales y normas, observando su participación y comprensión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yyn-tnbqaa08j</odePageId>
+  <odeParentPageId>page-mpgn9yyi-pbo18t0jm</odeParentPageId>
+  <pageName>SESIÓN 3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yyn-tnbqaa08j</odePageId>
+      <odeBlockId>block-1778594455183-ilmtl97sl</odeBlockId>
+      <blockName>Título: Creación artística sobre comportamiento seguro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yyn-tnbqaa08j</odePageId>
+          <odeBlockId>block-1778594455183-ilmtl97sl</odeBlockId>
+          <odeIdeviceId>idevice-1778594455182-ptywi0lix</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Título: Creación artística sobre comportamiento seguro</strong></em></p>
+<p><em><strong>Tareas: </strong></em></p>
+<ul>
+<li>Crear un cartel o dibujo, individualmente o en grupo.</li>
+<li>Utilizar programas digitales o materiales tradicionales. </li>
+</ul>
+<p><em><strong>Recursos: </strong></em>Papel, lápices, colores.</p>
+<p><em><strong>Evaluación: </strong></em>Creatividad en la representación, comprensión del mensaje de seguridad, colaboración en grupo si corresponde.</p>
+<p><em><strong>Desarrollo:</strong></em> Tras facilitarles materiales como papel, lápices, colores imágenes, fotos de ellos mismos, y explicar la idea de crear un cartel o dibujo sobre comportamiento seguro, les guiaríamos en todo momento para llevarlas a cabo. Durante la actividad, fomentaría la creatividad y la comprensión del mensaje de seguridad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778594455182-ptywi0lix","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Título: Creación artística sobre comportamiento seguro</strong></em></p>\n<p><em><strong>Tareas: </strong></em></p>\n<ul>\n<li>Crear un cartel o dibujo, individualmente o en grupo.</li>\n<li>Utilizar programas digitales o materiales tradicionales. </li>\n</ul>\n<p><em><strong>Recursos: </strong></em>Papel, lápices, colores.</p>\n<p><em><strong>Evaluación: </strong></em>Creatividad en la representación, comprensión del mensaje de seguridad, colaboración en grupo si corresponde.</p>\n<p><em><strong>Desarrollo:</strong></em> Tras facilitarles materiales como papel, lápices, colores imágenes, fotos de ellos mismos, y explicar la idea de crear un cartel o dibujo sobre comportamiento seguro, les guiaríamos en todo momento para llevarlas a cabo. Durante la actividad, fomentaría la creatividad y la comprensión del mensaje de seguridad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yyp-8sieiiwg1</odePageId>
+  <odeParentPageId>page-mpgn9yyi-pbo18t0jm</odeParentPageId>
+  <pageName>SESIÓN 4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yyp-8sieiiwg1</odePageId>
+      <odeBlockId>block-1778594720031-bmpiiul8a</odeBlockId>
+      <blockName>Título: Visualización y discusión de vídeo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yyp-8sieiiwg1</odePageId>
+          <odeBlockId>block-1778594720031-bmpiiul8a</odeBlockId>
+          <odeIdeviceId>idevice-1778594720029-dt0c41kvm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Título: Visualización y discusión de vídeo</strong></em></p>
+<p><em><strong>Tareas: </strong></em>Ver vídeo en grupo pequeño.</p>
+<p><a href="https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv/wish/XGyBQb13q3O0aL6K">https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv/wish/XGyBQb13q3O0aL6K</a> </p>
+<p><em><strong>Recursos: </strong></em>Tablets o proyector, vídeos educativos.</p>
+<p><em><strong>Evaluación: </strong></em>Capacidad para recordar detalles, comprensión del mensaje de seguridad vial, interacción con los compañeros.</p>
+<p><em><strong>Desarrollo:</strong></em> Se mostraría el vídeo educativo en grupo en el proyector o PDI, y después se les dejaría ver a cada uno de manera individual. Luego, dirigiría un diálogo sencillo para que los niños compartan lo que vieron y entendieron sobre seguridad vial. Durante la actividad, valoraría su capacidad para recordar detalles, entender el mensaje y participar con sus compañeros. </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778594720029-dt0c41kvm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Título: Visualización y discusión de vídeo</strong></em></p>\n<p><em><strong>Tareas: </strong></em>Ver vídeo en grupo pequeño.</p>\n<p><a href=\"https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv/wish/XGyBQb13q3O0aL6K\">https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv/wish/XGyBQb13q3O0aL6K</a> </p>\n<p><em><strong>Recursos: </strong></em>Tablets o proyector, vídeos educativos.</p>\n<p><em><strong>Evaluación: </strong></em>Capacidad para recordar detalles, comprensión del mensaje de seguridad vial, interacción con los compañeros.</p>\n<p><em><strong>Desarrollo:</strong></em> Se mostraría el vídeo educativo en grupo en el proyector o PDI, y después se les dejaría ver a cada uno de manera individual. Luego, dirigiría un diálogo sencillo para que los niños compartan lo que vieron y entendieron sobre seguridad vial. Durante la actividad, valoraría su capacidad para recordar detalles, entender el mensaje y participar con sus compañeros. </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yyr-f1e9rwk3r</odePageId>
+  <odeParentPageId>page-mpgn9yyi-pbo18t0jm</odeParentPageId>
+  <pageName>SESIÓN 5</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yyr-f1e9rwk3r</odePageId>
+      <odeBlockId>block-1778594984016-jwu7lwwwb</odeBlockId>
+      <blockName>Título: Uso responsable de tecnologías digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yyr-f1e9rwk3r</odePageId>
+          <odeBlockId>block-1778594984016-jwu7lwwwb</odeBlockId>
+          <odeIdeviceId>idevice-1778594984014-q3emu9jco</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><em>Título: Uso responsable de tecnologías digitales</em></strong></p>
+<p><strong><em>Tareas: </em></strong></p>
+<ul>
+<li title="Infografia.pdf">Explorar aplicaciones en la tableta o ordenador. <a href="{{context_path}}/content/resources/Infografia.pdf" title="Infografia.pdf">INFOGRAFÍA</a></li>
+<li>Completar con actividades relacionadas con el uso responsable de tecnología digital circulando.</li>
+</ul>
+<p><em><strong>Recursos:</strong></em> Tabletas o ordenadores, aplicaciones educativas.</p>
+<p><em><strong>Evaluación: </strong></em>Comprensión del uso responsable, atención a las instrucciones, capacidad para completar las actividades.</p>
+<p><em><strong>Desarrollo: </strong></em> Esta sesión se dividiría en dos partes, que podrían extenderse a dos días; una de el uso responsable de las tecnologías, que se desarrollaría con la infografía; y otra de peligros del uso de tecnología como peatón para lo cual se pondría al alumnado en situaciones peligrosas mediante visionado de vídeos e imágenes. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778594984014-q3emu9jco","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><em>Título: Uso responsable de tecnologías digitales</em></strong></p>\n<p><strong><em>Tareas: </em></strong></p>\n<ul>\n<li title=\"Infografia.pdf\">Explorar aplicaciones en la tableta o ordenador. <a href=\"{{context_path}}/content/resources/Infografia.pdf\" title=\"Infografia.pdf\">INFOGRAFÍA</a></li>\n<li>Completar con actividades relacionadas con el uso responsable de tecnología digital circulando.</li>\n</ul>\n<p><em><strong>Recursos:</strong></em> Tabletas o ordenadores, aplicaciones educativas.</p>\n<p><em><strong>Evaluación: </strong></em>Comprensión del uso responsable, atención a las instrucciones, capacidad para completar las actividades.</p>\n<p><em><strong>Desarrollo: </strong></em> Esta sesión se dividiría en dos partes, que podrían extenderse a dos días; una de el uso responsable de las tecnologías, que se desarrollaría con la infografía; y otra de peligros del uso de tecnología como peatón para lo cual se pondría al alumnado en situaciones peligrosas mediante visionado de vídeos e imágenes. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yys-0wklkud9s</odePageId>
+  <odeParentPageId>page-mpgn9yyi-pbo18t0jm</odeParentPageId>
+  <pageName>SESIÓN 6</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yys-0wklkud9s</odePageId>
+      <odeBlockId>block-1778595314878-yivwec9u5</odeBlockId>
+      <blockName>Título: Creación de historias con Genially</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yys-0wklkud9s</odePageId>
+          <odeBlockId>block-1778595314878-yivwec9u5</odeBlockId>
+          <odeIdeviceId>idevice-1778595314876-waj1j8ejd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Título: Creación de historias con Genially</strong></em></p>
+<p><em><strong>Tarea: </strong></em>Elaborar historias sobre seguridad vial en Genially.</p>
+<p><em><strong>Recursos: </strong></em>Plataforma Genially, ordenadores/tabletas.</p>
+<p><em><strong>Evaluación: </strong></em>Capacidad para seguir pasos, comprensión del contenido de la historia, colaboración si trabaja en grupo.</p>
+<p><em><strong>Desarrollo:</strong></em> Tras mostrar cómo usar Genially paso a paso, con instrucciones claras y sencillas. Luego, guiaría a los alumnos para que creen sus propias historias sobre seguridad vial. </p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778595314876-waj1j8ejd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Título: Creación de historias con Genially</strong></em></p>\n<p><em><strong>Tarea: </strong></em>Elaborar historias sobre seguridad vial en Genially.</p>\n<p><em><strong>Recursos: </strong></em>Plataforma Genially, ordenadores/tabletas.</p>\n<p><em><strong>Evaluación: </strong></em>Capacidad para seguir pasos, comprensión del contenido de la historia, colaboración si trabaja en grupo.</p>\n<p><em><strong>Desarrollo:</strong></em> Tras mostrar cómo usar Genially paso a paso, con instrucciones claras y sencillas. Luego, guiaría a los alumnos para que creen sus propias historias sobre seguridad vial. </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yyu-3yx7ete4v</odePageId>
+  <odeParentPageId>page-mpgn9yyi-pbo18t0jm</odeParentPageId>
+  <pageName>SESIÓN 7</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 7</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 7</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yyu-3yx7ete4v</odePageId>
+      <odeBlockId>block-1778595420630-9cecivo4p</odeBlockId>
+      <blockName>Título: Evaluación práctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yyu-3yx7ete4v</odePageId>
+          <odeBlockId>block-1778595420630-9cecivo4p</odeBlockId>
+          <odeIdeviceId>idevice-1778595420629-wsxt1nvlp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Título: Evaluación práctica</strong></em></p>
+<p><em><strong>Tarea: </strong></em>Circuito de educación vial.</p>
+<p><em><strong>Recursos: </strong></em>Circuito adaptado y señalización.</p>
+<p><em><strong>Evaluación: </strong></em>Reconoce y respeta las señales y reglas del circuito.</p>
+<p><em><strong>Desarrollo:</strong></em> Para finalizar, haríamos una excursión al circuito de la policía local de El Ejido situado en el gran parque de las familias. Allí los alumnos participarían tanto como peatones o conductores.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778595420629-wsxt1nvlp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Título: Evaluación práctica</strong></em></p>\n<p><em><strong>Tarea: </strong></em>Circuito de educación vial.</p>\n<p><em><strong>Recursos: </strong></em>Circuito adaptado y señalización.</p>\n<p><em><strong>Evaluación: </strong></em>Reconoce y respeta las señales y reglas del circuito.</p>\n<p><em><strong>Desarrollo:</strong></em> Para finalizar, haríamos una excursión al circuito de la policía local de El Ejido situado en el gran parque de las familias. Allí los alumnos participarían tanto como peatones o conductores.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yyw-lybm4nnpm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yyw-lybm4nnpm</odePageId>
+      <odeBlockId>block-1778595526261-scntcdp1h</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yyw-lybm4nnpm</odePageId>
+          <odeBlockId>block-1778595526261-scntcdp1h</odeBlockId>
+          <odeIdeviceId>idevice-1778595526260-myddr7ej0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para llevar a cabo el proyecto "Aprendiendo Seguridad Vial: Un Viaje Divertido y Seguro" con alumnado con necesidades educativas especiales, es fundamental utilizar una metodología inclusiva, dinámica y adaptativa que fomente tanto el aprendizaje significativo como la participación activa de todo el alumnado. </p>
+<ul>
+<li>Se realizarán actividades que estimulen diferentes sentidos: visual (uso de imágenes, símbolos y señales de tráfico grandes y coloridos, etc.), auditivos (canciones relacionadas con la seguridad vial) y físicas (circuitos).</li>
+<li>Se usarán actividades interactivas (juegos).</li>
+<li>Talleres artísticos que permitan a los alumnos crear sus propias señales de tráfico utilizando diferentes materiales (papel, cartulina, colores), situaciones peligrosas, etc., lo que les ayudará a recordar mejor los conceptos.</li>
+<li>Uso de ayudas visuales: pictogramas, carteles y videos cortos que muestren situaciones de educación vial, ayudando a los alumnos a comprender mejor los mensajes de seguridad.</li>
+<li>Se llevarán a cabo rutinas sencillas con instrucciones claras y repetitivas. Establece rutinas claras para cada sesión. La repetición y la práctica constante ayudarán a los niños a asimilar los conceptos de forma más efectiva. Intenta integrar breves revisiones al inicio de cada sesión sobre lo aprendido en la anterior.</li>
+<li>Se procurará en todo momento fomentar las Habilidades Socioemocionales: la empatía y la colaboración, el trabajo conjunto, la comunicación y el respeto por los demás.</li>
+</ul>
+<p style="text-align: center;"><a href="{{context_path}}/content/resources/Cuadro organizativo.pdf" title="Cuadro organizativo.pdf">CUADRO ORGANIZATIVO</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778595526260-myddr7ej0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para llevar a cabo el proyecto \"Aprendiendo Seguridad Vial: Un Viaje Divertido y Seguro\" con alumnado con necesidades educativas especiales, es fundamental utilizar una metodología inclusiva, dinámica y adaptativa que fomente tanto el aprendizaje significativo como la participación activa de todo el alumnado. </p>\n<ul>\n<li>Se realizarán actividades que estimulen diferentes sentidos: visual (uso de imágenes, símbolos y señales de tráfico grandes y coloridos, etc.), auditivos (canciones relacionadas con la seguridad vial) y físicas (circuitos).</li>\n<li>Se usarán actividades interactivas (juegos).</li>\n<li>Talleres artísticos que permitan a los alumnos crear sus propias señales de tráfico utilizando diferentes materiales (papel, cartulina, colores), situaciones peligrosas, etc., lo que les ayudará a recordar mejor los conceptos.</li>\n<li>Uso de ayudas visuales: pictogramas, carteles y videos cortos que muestren situaciones de educación vial, ayudando a los alumnos a comprender mejor los mensajes de seguridad.</li>\n<li>Se llevarán a cabo rutinas sencillas con instrucciones claras y repetitivas. Establece rutinas claras para cada sesión. La repetición y la práctica constante ayudarán a los niños a asimilar los conceptos de forma más efectiva. Intenta integrar breves revisiones al inicio de cada sesión sobre lo aprendido en la anterior.</li>\n<li>Se procurará en todo momento fomentar las Habilidades Socioemocionales: la empatía y la colaboración, el trabajo conjunto, la comunicación y el respeto por los demás.</li>\n</ul>\n<p style=\"text-align: center;\"><a href=\"{{context_path}}/content/resources/Cuadro organizativo.pdf\" title=\"Cuadro organizativo.pdf\">CUADRO ORGANIZATIVO</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yyy-njz9c1g14</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yyy-njz9c1g14</odePageId>
+      <odeBlockId>block-1778595839403-0dfdunsjh</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yyy-njz9c1g14</odePageId>
+          <odeBlockId>block-1778595839403-0dfdunsjh</odeBlockId>
+          <odeIdeviceId>idevice-1778595839401-hd1dbgsfs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación será continua y formativa, basada en la observación directa y la participación en actividades. </p>
+<p>En algunas actividades se evaluará con registro anecdótico, ya que proporcionará información más cuantitativa sobre la evolución del alumnado en estas tareas y teniendo en cuenta unos criterios de evaluación. Para otras tareas se usarán rúbricas, buscando así hacer un seguimiento más minucioso sobre indicadores concretos y consiguiendo información sobre la consecución de este objetivo de forma más cuantitativa.</p>
+<p>Además, el registro anecdótico es una especie de diario en el que se recoge información significativa y anotaciones que luego serán útil para la evaluación. Mientras que, las rúbricas son tablas de doble entrada en las que se consignan las características específicas de un producto, proyecto o tarea en varios niveles de rendimiento.</p>
+<p style="text-align: center;"><a href="{{context_path}}/content/resources/Ejemplos de evaluación.pdf" title="Ejemplos de evaluación.pdf">EJEMPLOS DE EVALUACIÓN</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778595839401-hd1dbgsfs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación será continua y formativa, basada en la observación directa y la participación en actividades. </p>\n<p>En algunas actividades se evaluará con registro anecdótico, ya que proporcionará información más cuantitativa sobre la evolución del alumnado en estas tareas y teniendo en cuenta unos criterios de evaluación. Para otras tareas se usarán rúbricas, buscando así hacer un seguimiento más minucioso sobre indicadores concretos y consiguiendo información sobre la consecución de este objetivo de forma más cuantitativa.</p>\n<p>Además, el registro anecdótico es una especie de diario en el que se recoge información significativa y anotaciones que luego serán útil para la evaluación. Mientras que, las rúbricas son tablas de doble entrada en las que se consignan las características específicas de un producto, proyecto o tarea en varios niveles de rendimiento.</p>\n<p style=\"text-align: center;\"><a href=\"{{context_path}}/content/resources/Ejemplos de evaluación.pdf\" title=\"Ejemplos de evaluación.pdf\">EJEMPLOS DE EVALUACIÓN</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgn9yz0-h148wk23y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgn9yz0-h148wk23y</odePageId>
+      <odeBlockId>block-1778596290052-9ksod2bwq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yz0-h148wk23y</odePageId>
+          <odeBlockId>block-1778596290052-9ksod2bwq</odeBlockId>
+          <odeIdeviceId>idevice-1778596290051-s0i0cyos7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Autor/a:</span></span></strong></em><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Ana María Pareja Pérez </span></span></p>
+<p><em><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Descripción:</span></span></strong></em><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Proyecto sobre educación vial, diseñado para alumnado con necesidades educativas especiales.</span></span></p>
+<p><em><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Enlace al recurso:</span></span></strong></em><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> [Enlace al recurso en Procomún, Graasp o Drive.to]</span></span></p>
+<p><em><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recursos utilizados:</span></span></strong></em></p>
+<p><em><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- Imágenes: </span></span><a href="https://arasaac.org/pictograms/search"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://arasaac.org/pictograms/search</span></span></a> </em></p>
+<p><em><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- Vídeos: </span></span><a href="https://www.youtube.com/"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://www.youtube.com/</span></span></a> </em></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Aplicaciones digitales:</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- </span></span><em><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Canva: </span></span></em><a href="https://www.canva.com/design/DAGjqvimfN0/cW-JZ04q75gNtaJ5LA9A9w/edit"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://www.canva.com/design/DAGjqvimfN0/cW-JZ04q75gNtaJ5LA9A9w/edit</span></span></a><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">  en la creación de documentos, infografía y mapa mental. </span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- Genialmente: </span></span><a href="https://app.genially.com/teams/69e654a2fdc458526f54a37e/spaces/69e654a2fdc458526f54a3a0/templates/home?for-me=highligted-templates"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://app.genially.com/teams/69e654a2fdc458526f54a37e/spaces/69e654a2fdc458526f54a3a0/templates/home?for-me=highligted-templates</span></span></a><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> para la elaboración de actividades.  </span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- </span></span><em><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Padlet: </span></span></em><a href="https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv</span></span></a><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> para recopilar recursos para el proyecto.  </span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- </span></span><em><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Symbaloo</span></span></em><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> : </span></span><a href="https://www.symbaloo.com/shared/AAAAAdOAIp8AA41-5EVJJQ=="><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://www.symbaloo.com/shared/AAAAAdOAIp8AA41-5EVJJQ==</span></span></a><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> para gestionar recursos del día a día en el aula.  </span></span></p>
+<p><em><strong title="6-tipos-de-licencias-Creative-Commons.png"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Licencia:</span></span><img src="{{context_path}}/content/resources/LICENCIA.jpg" width="186" height="65" /></strong></em></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778596290051-s0i0cyos7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Autor/a:</span></span></strong></em><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Ana María Pareja Pérez </span></span></p>\n<p><em><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Descripción:</span></span></strong></em><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Proyecto sobre educación vial, diseñado para alumnado con necesidades educativas especiales.</span></span></p>\n<p><em><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Enlace al recurso:</span></span></strong></em><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> [Enlace al recurso en Procomún, Graasp o Drive.to]</span></span></p>\n<p><em><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Recursos utilizados:</span></span></strong></em></p>\n<p><em><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- Imágenes: </span></span><a href=\"https://arasaac.org/pictograms/search\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://arasaac.org/pictograms/search</span></span></a> </em></p>\n<p><em><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- Vídeos: </span></span><a href=\"https://www.youtube.com/\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://www.youtube.com/</span></span></a> </em></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Aplicaciones digitales:</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- </span></span><em><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Canva: </span></span></em><a href=\"https://www.canva.com/design/DAGjqvimfN0/cW-JZ04q75gNtaJ5LA9A9w/edit\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://www.canva.com/design/DAGjqvimfN0/cW-JZ04q75gNtaJ5LA9A9w/edit</span></span></a><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">  en la creación de documentos, infografía y mapa mental. </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- Genialmente: </span></span><a href=\"https://app.genially.com/teams/69e654a2fdc458526f54a37e/spaces/69e654a2fdc458526f54a3a0/templates/home?for-me=highligted-templates\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://app.genially.com/teams/69e654a2fdc458526f54a37e/spaces/69e654a2fdc458526f54a3a0/templates/home?for-me=highligted-templates</span></span></a><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> para la elaboración de actividades.  </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- </span></span><em><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Padlet: </span></span></em><a href=\"https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://padlet.com/anaarenas95/educacion-vial-1w8pm3x5eyw2ksrv</span></span></a><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> para recopilar recursos para el proyecto.  </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- </span></span><em><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Symbaloo</span></span></em><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> : </span></span><a href=\"https://www.symbaloo.com/shared/AAAAAdOAIp8AA41-5EVJJQ==\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://www.symbaloo.com/shared/AAAAAdOAIp8AA41-5EVJJQ==</span></span></a><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> para gestionar recursos del día a día en el aula.  </span></span></p>\n<p><em><strong title=\"6-tipos-de-licencias-Creative-Commons.png\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Licencia:</span></span><img src=\"{{context_path}}/content/resources/LICENCIA.jpg\" width=\"186\" height=\"65\" /></strong></em></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpgn9yz0-h148wk23y</odePageId>
+      <odeBlockId>block-1779266741748-cmjdy8n34</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgn9yz0-h148wk23y</odePageId>
+          <odeBlockId>block-1779266741748-cmjdy8n34</odeBlockId>
+          <odeIdeviceId>idevice-1779266741743-z4nd18htw</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Aprendiendo Seguridad Vial</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este proyecto se centra en la educación vial como herramienta fundamental para potenciar la seguridad personal y la autonomía de niños y niñas con necesidades educativas especiales. A lo largo de cuatro semanas, se llevarán a cabo sesiones de una hora dos veces a la semana, donde se abordarán conceptos básicos sobre circulación peatonal, señales de tráfico y seguridad en el automóvil.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ana María Pareja Pérez </span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
